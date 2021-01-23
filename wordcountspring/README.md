@@ -5,7 +5,7 @@
 
 2. Clone the repository by running the next command:
 
-  * git clone https://github.com/simonbustamante/wordcount-beam-spring.git
+  >git clone https://github.com/simonbustamante/wordcount-beam-spring.git
   
 3. Open Eclipse
 
